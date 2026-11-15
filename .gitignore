@@ -1,0 +1,24 @@
+node_modules/
+dist/
+dist-ssr/
+screenshots/
+*.local
+
+# Android / Capacitor
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+android/capacitor-cordova-android-plugins/
+*.apk
+*.aab
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

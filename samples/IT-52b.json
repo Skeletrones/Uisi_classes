@@ -1,0 +1,3888 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "fileName": "IT-52b.xlsx",
+    "group": "ИТ-52б",
+    "title": "Уральский технический институт связи и информатики \r\n(филиал)  федерального государственного бюджетного образовательного учреждения высшего образования \r\n\"Сибирский государственный университет телекоммуникаций и информатики\" в г. Екатеринбурге  (УрТИСИ  СибГУТИ)\r\nРасписание занятий группы 2 курса ФИИиУ на I полугодие 2026/2027 учебного года \r\nпо специальности 11.03.02 \"Инфокоммуникационные технологии и системы связи\" профиль \"Инфокоммуникационные технологии в услугах связи\"\r\nна период с 01.09.26г. по 26.09.26г.",
+    "faculty": "ФИИиУ",
+    "course": "2",
+    "specialty": "11.03.02 «Инфокоммуникационные технологии и системы связи»",
+    "period": {
+      "start": "2026-10-12",
+      "end": "2026-11-21"
+    },
+    "sheetName": "Лист1",
+    "importedAt": "2026-11-09T19:32:49.893Z"
+  },
+  "meta": {
+    "timePresets": {
+      "regular": {
+        "1": {
+          "start": "08:30",
+          "end": "10:00"
+        },
+        "2": {
+          "start": "10:15",
+          "end": "11:45"
+        },
+        "3": {
+          "start": "12:00",
+          "end": "13:30"
+        },
+        "4": {
+          "start": "14:15",
+          "end": "15:45"
+        },
+        "5": {
+          "start": "16:00",
+          "end": "17:30"
+        },
+        "6": {
+          "start": "17:40",
+          "end": "19:05"
+        },
+        "7": {
+          "start": "19:15",
+          "end": "20:40"
+        }
+      },
+      "saturday": {
+        "1": {
+          "start": "08:30",
+          "end": "10:00"
+        },
+        "2": {
+          "start": "10:15",
+          "end": "11:45"
+        },
+        "3": {
+          "start": "12:00",
+          "end": "13:30"
+        },
+        "4": {
+          "start": "13:45",
+          "end": "15:15"
+        },
+        "5": {
+          "start": "15:30",
+          "end": "17:00"
+        },
+        "6": {
+          "start": "17:10",
+          "end": "18:40"
+        }
+      },
+      "preholiday": {
+        "1": {
+          "start": "08:30",
+          "end": "10:00"
+        },
+        "2": {
+          "start": "10:15",
+          "end": "11:45"
+        },
+        "3": {
+          "start": "12:00",
+          "end": "13:30"
+        },
+        "4": {
+          "start": "13:45",
+          "end": "14:45"
+        },
+        "5": {
+          "start": "15:00",
+          "end": "16:00"
+        }
+      }
+    },
+    "weekCount": 6,
+    "dayCount": 36
+  },
+  "stats": {
+    "weeks": 6,
+    "days": 36,
+    "daysWithClasses": 29,
+    "slots": 101,
+    "entries": 103
+  },
+  "weeks": [
+    {
+      "index": 1,
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-17",
+      "academicWeek": 7,
+      "parity": "odd",
+      "days": [
+        {
+          "date": "2026-10-12",
+          "weekday": 1,
+          "name": "Понедельник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Куанышев В.Т.",
+                    "raw": "доцент КуанышевВ.Т."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Кусайкин Д.В.",
+                    "raw": "доцент КусайкинД.В."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-13",
+          "weekday": 2,
+          "name": "Вторник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Кусайкин Д.В.",
+                    "raw": "доцент КусайкинД.В."
+                  },
+                  "room": {
+                    "number": "406",
+                    "building": "3",
+                    "raw": "406 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "weekday": 3,
+          "name": "Среда",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 1,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "305",
+                    "building": "3",
+                    "raw": "305 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элементная база телекоммуникационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Малкова И.А.",
+                    "raw": "ст.преподаватель МалковаИ.А."
+                  },
+                  "room": {
+                    "number": "402",
+                    "building": "3",
+                    "raw": "402 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 5,
+              "timeRaw": {
+                "start": "16:00",
+                "end": "17:30"
+              },
+              "time": {
+                "start": "16:00",
+                "end": "17:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "weekday": 4,
+          "name": "Четверг",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элементная база телекоммуникационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Малкова И.А.",
+                    "raw": "ст.преподаватель МалковаИ.А."
+                  },
+                  "room": {
+                    "number": "402",
+                    "building": "3",
+                    "raw": "402 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элементная база телекоммуникационных систем",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Малкова И.А.",
+                    "raw": "ст.преподаватель МалковаИ.А."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "II",
+                    "raw": "II",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-16",
+          "weekday": 5,
+          "name": "Пятница",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Кусайкин Д.В.",
+                    "raw": "доцент КусайкинД.В."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Куанышев В.Т.",
+                    "raw": "доцент КуанышевВ.Т."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Социология и право",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Сухих Н.И.",
+                    "raw": "доцент СухихН.И."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-17",
+          "weekday": 6,
+          "name": "Суббота",
+          "kind": "self-study",
+          "slots": [
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "self-study",
+              "entries": [],
+              "note": "День самоподготовки"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-24",
+      "academicWeek": 8,
+      "parity": "even",
+      "days": [
+        {
+          "date": "2026-10-19",
+          "weekday": 1,
+          "name": "Понедельник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Куанышев В.Т.",
+                    "raw": "доцент КуанышевВ.Т."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "VIII",
+                    "raw": "VIII",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Кусайкин Д.В.",
+                    "raw": "доцент КусайкинД.В."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-20",
+          "weekday": 2,
+          "name": "Вторник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Языки программирования",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Кириленко А.А.",
+                    "raw": "преподаватель КириленкоА.А."
+                  },
+                  "room": {
+                    "number": "303",
+                    "building": "1",
+                    "raw": "303 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Кусайкин Д.В.",
+                    "raw": "доцент КусайкинД.В."
+                  },
+                  "room": {
+                    "number": "406",
+                    "building": "3",
+                    "raw": "406 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-21",
+          "weekday": 3,
+          "name": "Среда",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 1,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "305",
+                    "building": "3",
+                    "raw": "305 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элементная база телекоммуникационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Малкова И.А.",
+                    "raw": "ст.преподаватель МалковаИ.А."
+                  },
+                  "room": {
+                    "number": "402",
+                    "building": "3",
+                    "raw": "402 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 5,
+              "timeRaw": {
+                "start": "16:00",
+                "end": "17:30"
+              },
+              "time": {
+                "start": "16:00",
+                "end": "17:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-22",
+          "weekday": 4,
+          "name": "Четверг",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "210",
+                    "building": "3",
+                    "raw": "210 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элементная база телекоммуникационных систем",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Малкова И.А.",
+                    "raw": "ст.преподаватель МалковаИ.А."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Мачульский М.А.",
+                    "raw": "преподаватель МачульскийМ.А."
+                  },
+                  "room": {
+                    "number": "404",
+                    "building": "1",
+                    "raw": "404 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-23",
+          "weekday": 5,
+          "name": "Пятница",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Кусайкин Д.В.",
+                    "raw": "доцент КусайкинД.В."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Куанышев В.Т.",
+                    "raw": "доцент КуанышевВ.Т."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Социология и право",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Сухих Н.И.",
+                    "raw": "доцент СухихН.И."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-24",
+          "weekday": 6,
+          "name": "Суббота",
+          "kind": "self-study",
+          "slots": [
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "self-study",
+              "entries": [],
+              "note": "День самоподготовки"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-31",
+      "academicWeek": 9,
+      "parity": "odd",
+      "days": [
+        {
+          "date": "2026-10-26",
+          "weekday": 1,
+          "name": "Понедельник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Куанышев В.Т.",
+                    "raw": "доцент КуанышевВ.Т."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-27",
+          "weekday": 2,
+          "name": "Вторник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Кусайкин Д.В.",
+                    "raw": "доцент КусайкинД.В."
+                  },
+                  "room": {
+                    "number": "406",
+                    "building": "3",
+                    "raw": "406 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Мачульский М.А.",
+                    "raw": "преподаватель МачульскийМ.А."
+                  },
+                  "room": {
+                    "number": "404",
+                    "building": "1",
+                    "raw": "404 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-28",
+          "weekday": 3,
+          "name": "Среда",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 1,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Языки программирования",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Кириленко А.А.",
+                    "raw": "преподаватель КириленкоА.А."
+                  },
+                  "room": {
+                    "number": "301",
+                    "building": "1",
+                    "raw": "301 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элементная база телекоммуникационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Малкова И.А.",
+                    "raw": "ст.преподаватель МалковаИ.А."
+                  },
+                  "room": {
+                    "number": "402",
+                    "building": "3",
+                    "raw": "402 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 5,
+              "timeRaw": {
+                "start": "16:00",
+                "end": "17:30"
+              },
+              "time": {
+                "start": "16:00",
+                "end": "17:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-29",
+          "weekday": 4,
+          "name": "Четверг",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "305",
+                    "building": "3",
+                    "raw": "305 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "II",
+                    "raw": "II",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "305",
+                    "building": "3",
+                    "raw": "305 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-30",
+          "weekday": 5,
+          "name": "Пятница",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Кусайкин Д.В.",
+                    "raw": "доцент КусайкинД.В."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Куанышев В.Т.",
+                    "raw": "доцент КуанышевВ.Т."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Социология и право",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Сухих Н.И.",
+                    "raw": "доцент СухихН.И."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-10-31",
+          "weekday": 6,
+          "name": "Суббота",
+          "kind": "self-study",
+          "slots": [
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "self-study",
+              "entries": [],
+              "note": "День самоподготовки"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-07",
+      "academicWeek": 10,
+      "parity": "even",
+      "days": [
+        {
+          "date": "2026-11-02",
+          "weekday": 1,
+          "name": "Понедельник",
+          "kind": "self-study",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "self-study",
+              "entries": [],
+              "note": "День самоподготовки"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-03",
+          "weekday": 2,
+          "name": "Вторник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "preholiday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "preholiday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 1,
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Белых П.Е.",
+                    "raw": "преподаватель БелыхП.Е."
+                  },
+                  "room": {
+                    "number": "419",
+                    "building": "3",
+                    "raw": "419 УК№3",
+                    "kind": "room"
+                  }
+                },
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Бурумбаев Д.И.",
+                    "raw": "ст.преподаватель БурумбаевД.И."
+                  },
+                  "room": {
+                    "number": "406",
+                    "building": "3",
+                    "raw": "406 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "preholiday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "13:45",
+                "end": "14:45",
+                "mode": "preholiday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Мачульский М.А.",
+                    "raw": "преподаватель МачульскийМ.А."
+                  },
+                  "room": {
+                    "number": "404",
+                    "building": "1",
+                    "raw": "404 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-04",
+          "weekday": 3,
+          "name": "Среда",
+          "kind": "holiday",
+          "note": "Праздничный день",
+          "slots": []
+        },
+        {
+          "date": "2026-11-05",
+          "weekday": 4,
+          "name": "Четверг",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "210",
+                    "building": "3",
+                    "raw": "210 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "II",
+                    "raw": "II",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "305",
+                    "building": "3",
+                    "raw": "305 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-06",
+          "weekday": 5,
+          "name": "Пятница",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Кусайкин Д.В.",
+                    "raw": "доцент КусайкинД.В."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Куанышев В.Т.",
+                    "raw": "доцент КуанышевВ.Т."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Социология и право",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Сухих Н.И.",
+                    "raw": "доцент СухихН.И."
+                  },
+                  "room": {
+                    "number": "III",
+                    "raw": "III",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-07",
+          "weekday": 6,
+          "name": "Суббота",
+          "kind": "self-study",
+          "slots": [
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "self-study",
+              "entries": [],
+              "note": "День самоподготовки"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-14",
+      "academicWeek": 11,
+      "parity": "odd",
+      "days": [
+        {
+          "date": "2026-11-09",
+          "weekday": 1,
+          "name": "Понедельник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Социология и право",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Сухих Н.И.",
+                    "raw": "доцент СухихН.И."
+                  },
+                  "room": {
+                    "number": "405",
+                    "building": "3",
+                    "raw": "405 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Социология и право",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Сухих Н.И.",
+                    "raw": "доцент СухихН.И."
+                  },
+                  "room": {
+                    "number": "405",
+                    "building": "3",
+                    "raw": "405 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-10",
+          "weekday": 2,
+          "name": "Вторник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "210",
+                    "building": "3",
+                    "raw": "210 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Языки программирования",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Кириленко А.А.",
+                    "raw": "преподаватель КириленкоА.А."
+                  },
+                  "room": {
+                    "number": "304",
+                    "building": "1",
+                    "raw": "304 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Бурумбаев Д.И.",
+                    "raw": "ст.преподаватель БурумбаевД.И."
+                  },
+                  "room": {
+                    "number": "101а",
+                    "building": "3",
+                    "raw": "101а УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 5,
+              "timeRaw": {
+                "start": "16:00",
+                "end": "17:30"
+              },
+              "time": {
+                "start": "16:00",
+                "end": "17:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектная деятельность",
+                  "type": "project",
+                  "typeLabel": "Проект",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Тарасов Е.С.",
+                    "raw": "ст.преподавательТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "205",
+                    "building": "3",
+                    "raw": "205 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-11",
+          "weekday": 3,
+          "name": "Среда",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "305",
+                    "building": "3",
+                    "raw": "305 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Кусайкин Д.В.",
+                    "raw": "доцент КусайкинД.В."
+                  },
+                  "room": {
+                    "number": "406",
+                    "building": "3",
+                    "raw": "406 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элементная база телекоммуникационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Малкова И.А.",
+                    "raw": "ст.преподаватель МалковаИ.А."
+                  },
+                  "room": {
+                    "number": "202",
+                    "building": "3",
+                    "raw": "202 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 5,
+              "timeRaw": {
+                "start": "16:00",
+                "end": "17:30"
+              },
+              "time": {
+                "start": "16:00",
+                "end": "17:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 1,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "weekday": 4,
+          "name": "Четверг",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элементная база телекоммуникационных систем",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Малкова И.А.",
+                    "raw": "ст.преподаватель МалковаИ.А."
+                  },
+                  "room": {
+                    "number": "202",
+                    "building": "3",
+                    "raw": "202 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "II",
+                    "raw": "II",
+                    "kind": "hall"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "305",
+                    "building": "3",
+                    "raw": "305 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "weekday": 5,
+          "name": "Пятница",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Языки программирования",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Кириленко А.А.",
+                    "raw": "преподаватель КириленкоА.А."
+                  },
+                  "room": {
+                    "number": "309",
+                    "building": "3",
+                    "raw": "309 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Мачульский М.А.",
+                    "raw": "преподаватель МачульскийМ.А."
+                  },
+                  "room": {
+                    "number": "405",
+                    "building": "1",
+                    "raw": "405 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-14",
+          "weekday": 6,
+          "name": "Суббота",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектная деятельность",
+                  "type": "project",
+                  "typeLabel": "Проект",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Каменсков А.Е.",
+                    "raw": "ст.преподаватель КаменсковА.Е."
+                  },
+                  "room": {
+                    "number": "402",
+                    "building": "3",
+                    "raw": "402 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "13:45",
+                "end": "15:15"
+              },
+              "time": {
+                "start": "13:45",
+                "end": "15:15",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектная деятельность",
+                  "type": "project",
+                  "typeLabel": "Проект",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Каменсков А.Е.",
+                    "raw": "ст.преподаватель КаменсковА.Е."
+                  },
+                  "room": {
+                    "number": "402",
+                    "building": "3",
+                    "raw": "402 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-21",
+      "academicWeek": 12,
+      "parity": "even",
+      "days": [
+        {
+          "date": "2026-11-16",
+          "weekday": 1,
+          "name": "Понедельник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Мачульский М.А.",
+                    "raw": "преподаватель МачульскийМ.А."
+                  },
+                  "room": {
+                    "number": "405",
+                    "building": "1",
+                    "raw": "405 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Мачульский М.А.",
+                    "raw": "преподаватель МачульскийМ.А."
+                  },
+                  "room": {
+                    "number": "405",
+                    "building": "1",
+                    "raw": "405 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "weekday": 2,
+          "name": "Вторник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Социология и право",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Сухих Н.И.",
+                    "raw": "доцент СухихН.И."
+                  },
+                  "room": {
+                    "number": "405",
+                    "building": "3",
+                    "raw": "405 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Языки программирования",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Кириленко А.А.",
+                    "raw": "преподаватель КириленкоА.А."
+                  },
+                  "room": {
+                    "number": "304",
+                    "building": "1",
+                    "raw": "304 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 1,
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Белых П.Е.",
+                    "raw": "преподаватель БелыхП.Е."
+                  },
+                  "room": {
+                    "number": "419",
+                    "building": "3",
+                    "raw": "419 УК№3",
+                    "kind": "room"
+                  }
+                },
+                {
+                  "discipline": "Основы построения инфокоммуникационных систем и сетей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Бурумбаев Д.И.",
+                    "raw": "ст.преподаватель БурумбаевД.И."
+                  },
+                  "room": {
+                    "number": "101а",
+                    "building": "3",
+                    "raw": "101а УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 5,
+              "timeRaw": {
+                "start": "16:00",
+                "end": "17:30"
+              },
+              "time": {
+                "start": "16:00",
+                "end": "17:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектная деятельность",
+                  "type": "project",
+                  "typeLabel": "Проект",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Тарасов Е.С.",
+                    "raw": "ст.преподавательТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "205",
+                    "building": "3",
+                    "raw": "205 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "weekday": 3,
+          "name": "Среда",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 2,
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "305",
+                    "building": "3",
+                    "raw": "305 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория вероятностей и математическая статистика",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Мачульский М.А.",
+                    "raw": "преподаватель МачульскийМ.А."
+                  },
+                  "room": {
+                    "number": "405",
+                    "building": "1",
+                    "raw": "405 УК№1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элементная база телекоммуникационных систем",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Малкова И.А.",
+                    "raw": "ст.преподаватель МалковаИ.А."
+                  },
+                  "room": {
+                    "number": "202",
+                    "building": "3",
+                    "raw": "202 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 5,
+              "timeRaw": {
+                "start": "16:00",
+                "end": "17:30"
+              },
+              "time": {
+                "start": "16:00",
+                "end": "17:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Теория электрических цепей",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "subgroup": 1,
+                  "teacher": {
+                    "position": "доцент",
+                    "name": "Тарасов Е.С.",
+                    "raw": "доцент ТарасовЕ.С."
+                  },
+                  "room": {
+                    "number": "208",
+                    "building": "3",
+                    "raw": "208 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "weekday": 4,
+          "name": "Четверг",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элементная база телекоммуникационных систем",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Малкова И.А.",
+                    "raw": "ст.преподаватель МалковаИ.А."
+                  },
+                  "room": {
+                    "number": "202",
+                    "building": "3",
+                    "raw": "202 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Языки программирования",
+                  "type": "lab",
+                  "typeLabel": "Лабораторная",
+                  "rawType": "лаб.раб.",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Кириленко А.А.",
+                    "raw": "преподаватель КириленкоА.А."
+                  },
+                  "room": {
+                    "number": "310",
+                    "building": "3",
+                    "raw": "310 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектная деятельность",
+                  "type": "project",
+                  "typeLabel": "Проект",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Плеханов С.М.",
+                    "raw": "ст.преподаватель ПлехановС.М."
+                  },
+                  "room": {
+                    "number": "417",
+                    "building": "3",
+                    "raw": "417 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "weekday": 5,
+          "name": "Пятница",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Элективные дисциплины по физической культуре и спорту",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Фончукова А.С.",
+                    "raw": "ст.преподаватель Фончукова А.С."
+                  },
+                  "room": {
+                    "number": "с/з, т/з",
+                    "raw": "с/з, т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Антенны и распространение радиоволн",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "ст. преподаватель",
+                    "name": "Овчинников Д.А.",
+                    "raw": "ст.преподаватель ОвчинниковД.А."
+                  },
+                  "room": {
+                    "number": "305",
+                    "building": "3",
+                    "raw": "305 УК№3",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "weekday": 6,
+          "name": "Суббота",
+          "kind": "self-study",
+          "slots": [
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "self-study",
+              "entries": [],
+              "note": "День самоподготовки"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

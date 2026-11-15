@@ -1,0 +1,1830 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "fileName": "625.xlsx",
+    "group": "625",
+    "title": "Уральский технический институт связи и информатики (филиал)  федерального государственного бюджетного образовательного учреждения высшего образования \r\n\"Сибирский государственный университет телекоммуникаций и информатики\" в г. Екатеринбурге  (УрТИСИ  СибГУТИ)\r\nРасписание занятий группы 625 1 курса СПО на I полугодие 2026/2027 учебного года \r\nНаправление 09.02.12 Техническая эксплуатация и сопровождение информационных систем\r\nна период с 09.11.26г. по 28.11.26г.",
+    "faculty": "СПО",
+    "period": {
+      "start": "2026-11-09",
+      "end": "2026-11-28"
+    },
+    "sheetName": "625",
+    "importedAt": "2026-11-10T15:16:03.671Z"
+  },
+  "meta": {
+    "timePresets": {
+      "regular": {
+        "1": {
+          "start": "08:30",
+          "end": "10:00"
+        },
+        "2": {
+          "start": "10:15",
+          "end": "11:45"
+        },
+        "3": {
+          "start": "12:00",
+          "end": "13:30"
+        },
+        "4": {
+          "start": "14:15",
+          "end": "15:45"
+        },
+        "5": {
+          "start": "16:00",
+          "end": "17:30"
+        },
+        "6": {
+          "start": "17:40",
+          "end": "19:05"
+        },
+        "7": {
+          "start": "19:15",
+          "end": "20:40"
+        }
+      },
+      "saturday": {
+        "1": {
+          "start": "08:30",
+          "end": "10:00"
+        },
+        "2": {
+          "start": "10:15",
+          "end": "11:45"
+        },
+        "3": {
+          "start": "12:00",
+          "end": "13:30"
+        },
+        "4": {
+          "start": "13:45",
+          "end": "15:15"
+        },
+        "5": {
+          "start": "15:30",
+          "end": "17:00"
+        },
+        "6": {
+          "start": "17:10",
+          "end": "18:40"
+        }
+      },
+      "preholiday": {
+        "1": {
+          "start": "08:30",
+          "end": "10:00"
+        },
+        "2": {
+          "start": "10:15",
+          "end": "11:45"
+        },
+        "3": {
+          "start": "12:00",
+          "end": "13:30"
+        },
+        "4": {
+          "start": "13:45",
+          "end": "14:45"
+        },
+        "5": {
+          "start": "15:00",
+          "end": "16:00"
+        }
+      }
+    },
+    "weekCount": 3,
+    "dayCount": 18
+  },
+  "stats": {
+    "weeks": 3,
+    "days": 18,
+    "daysWithClasses": 16,
+    "slots": 48,
+    "entries": 48
+  },
+  "weeks": [
+    {
+      "index": 1,
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-14",
+      "academicWeek": 11,
+      "parity": "odd",
+      "days": [
+        {
+          "date": "2026-11-09",
+          "weekday": 1,
+          "name": "Понедельник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Информационные технологии в профессиональной деятельности",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель АбрашовМ.А."
+                  },
+                  "room": {
+                    "number": "314",
+                    "building": "1",
+                    "raw": "314УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Информационные технологии в профессиональной деятельности",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель АбрашовМ.А."
+                  },
+                  "room": {
+                    "number": "203",
+                    "building": "1",
+                    "raw": "203УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Иностранный язык в профессиональной деятельности",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "1кат. Миннегалиева Т.В.",
+                    "raw": "преподаватель 1кат. МиннегалиеваТ.В."
+                  },
+                  "room": {
+                    "number": "212",
+                    "building": "1",
+                    "raw": "212УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-10",
+          "weekday": 2,
+          "name": "Вторник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектирование и разработка информационных систем",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель Абрашов М.А."
+                  },
+                  "room": {
+                    "number": "213",
+                    "building": "1",
+                    "raw": "213УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "История России",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "1кат. Шабурова А.В.",
+                    "raw": "преподаватель 1кат. ШабуроваА.В."
+                  },
+                  "room": {
+                    "number": "210",
+                    "building": "1",
+                    "raw": "210УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы работы с информацией",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Шмотьева А.О.",
+                    "raw": "преподаватель ШмотьеваА.О."
+                  },
+                  "room": {
+                    "number": "314",
+                    "building": "1",
+                    "raw": "314УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-11",
+          "weekday": 3,
+          "name": "Среда",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Физическая культура",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "высш.кат. Мишарина Ж.В.",
+                    "raw": "преподаватель высш.кат. МишаринаЖ.В."
+                  },
+                  "room": {
+                    "number": "с/з,т/з",
+                    "raw": "с/з,т/з",
+                    "kind": "sport"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "История России",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "1кат. Шабурова А.В.",
+                    "raw": "преподаватель 1кат. ШабуроваА.В."
+                  },
+                  "room": {
+                    "number": "210",
+                    "building": "1",
+                    "raw": "210УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектирование и разработка информационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель Абрашов М.А."
+                  },
+                  "room": {
+                    "number": "301",
+                    "building": "1",
+                    "raw": "301УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "weekday": 4,
+          "name": "Четверг",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Иностранный язык в профессиональной деятельности",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "1кат. Миннегалиева Т.В.",
+                    "raw": "преподаватель 1кат. МиннегалиеваТ.В."
+                  },
+                  "room": {
+                    "number": "212",
+                    "building": "1",
+                    "raw": "212УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы алгоритмизации и программирования",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "name": "препеподаватель Белкина",
+                    "raw": "препеподаватель Белкина"
+                  },
+                  "room": {
+                    "number": "213",
+                    "building": "1",
+                    "raw": "213УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы алгоритмизации и программирования",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Белкина А.В.",
+                    "raw": "преподаватель БелкинаА.В."
+                  },
+                  "room": {
+                    "number": "306",
+                    "building": "1",
+                    "raw": "306УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Математический аппарат в отрасли информационных технологий",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Воробьева В.В.",
+                    "raw": "преподаватель ВоробьеваВ.В."
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "weekday": 5,
+          "name": "Пятница",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 6,
+              "timeRaw": {
+                "start": "17:40",
+                "end": "19:05"
+              },
+              "time": {
+                "start": "17:40",
+                "end": "19:05",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Операционные системы и среды",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Вагин В.Д.",
+                    "raw": "преподаватель ВагинВ.Д."
+                  },
+                  "room": {
+                    "number": "дист. форм",
+                    "raw": "дист. форм",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 7,
+              "timeRaw": {
+                "start": "19:15",
+                "end": "20:40"
+              },
+              "time": {
+                "start": "19:15",
+                "end": "20:40",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Операционные системы и среды",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Вагин В.Д.",
+                    "raw": "преподаватель ВагинВ.Д."
+                  },
+                  "room": {
+                    "number": "дист. форм",
+                    "raw": "дист. форм",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-14",
+          "weekday": 6,
+          "name": "Суббота",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Математический аппарат в отрасли информационных технологий",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Воробьева В.В.",
+                    "raw": "преподаватель ВоробьеваВ.В."
+                  },
+                  "room": {
+                    "number": "408",
+                    "building": "1",
+                    "raw": "408УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Математический аппарат в отрасли информационных технологий",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Воробьева В.В.",
+                    "raw": "преподаватель ВоробьеваВ.В."
+                  },
+                  "room": {
+                    "number": "408",
+                    "building": "1",
+                    "raw": "408УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы финансовой грамотности",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика; преподаватель МитченкоТ.С.",
+                  "room": {
+                    "number": "203",
+                    "building": "1",
+                    "raw": "203УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "13:45",
+                "end": "15:15"
+              },
+              "time": {
+                "start": "13:45",
+                "end": "15:15",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы финансовой грамотности",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика; преподаватель МитченкоТ.С.",
+                  "room": {
+                    "number": "203",
+                    "building": "1",
+                    "raw": "203УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-21",
+      "academicWeek": 12,
+      "parity": "even",
+      "days": [
+        {
+          "date": "2026-11-16",
+          "weekday": 1,
+          "name": "Понедельник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектирование и разработка информационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель Абрашов М.А."
+                  },
+                  "room": {
+                    "number": "316",
+                    "building": "1",
+                    "raw": "316УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Информационные технологии в профессиональной деятельности",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель АбрашовМ.А."
+                  },
+                  "room": {
+                    "number": "306",
+                    "building": "1",
+                    "raw": "306УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Иностранный язык в профессиональной деятельности",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "1кат. Миннегалиева Т.В.",
+                    "raw": "преподаватель 1кат. МиннегалиеваТ.В."
+                  },
+                  "room": {
+                    "number": "212",
+                    "building": "1",
+                    "raw": "212УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Математический аппарат в отрасли информационных технологий",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Воробьева В.В.",
+                    "raw": "преподаватель ВоробьеваВ.В."
+                  },
+                  "room": {
+                    "number": "408",
+                    "building": "1",
+                    "raw": "408УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "weekday": 2,
+          "name": "Вторник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы работы с информацией",
+                  "type": "other",
+                  "typeLabel": "диф.зачет",
+                  "rawType": "диф.зачет",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Шмотьева А.О.",
+                    "raw": "преподаватель ШмотьеваА.О."
+                  },
+                  "room": {
+                    "number": "314",
+                    "building": "1",
+                    "raw": "314УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы работы с информацией",
+                  "type": "other",
+                  "typeLabel": "диф.зачет",
+                  "rawType": "диф.зачет",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Шмотьева А.О.",
+                    "raw": "преподаватель ШмотьеваА.О."
+                  },
+                  "room": {
+                    "number": "314",
+                    "building": "1",
+                    "raw": "314УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 7,
+              "timeRaw": {
+                "start": "19:15",
+                "end": "20:40"
+              },
+              "time": {
+                "start": "19:15",
+                "end": "20:40",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Операционные системы и среды",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Вагин В.Д.",
+                    "raw": "преподаватель ВагинВ.Д."
+                  },
+                  "room": {
+                    "number": "дист. форм",
+                    "raw": "дист. форм",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "weekday": 3,
+          "name": "Среда",
+          "kind": "empty",
+          "slots": []
+        },
+        {
+          "date": "2026-11-19",
+          "weekday": 4,
+          "name": "Четверг",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы алгоритмизации и программирования",
+                  "type": "lecture",
+                  "typeLabel": "Лекция",
+                  "rawType": "лекция",
+                  "teacher": {
+                    "name": "препеподаватель Белкина",
+                    "raw": "препеподаватель Белкина"
+                  },
+                  "room": {
+                    "number": "213",
+                    "building": "1",
+                    "raw": "213УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы алгоритмизации и программирования",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Белкина А.В.",
+                    "raw": "преподаватель БелкинаА.В."
+                  },
+                  "room": {
+                    "number": "306",
+                    "building": "1",
+                    "raw": "306УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 5,
+              "timeRaw": {
+                "start": "16:00",
+                "end": "17:30"
+              },
+              "time": {
+                "start": "16:00",
+                "end": "17:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Математический аппарат в отрасли информационных технологий",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Воробьева В.В.",
+                    "raw": "преподаватель ВоробьеваВ.В."
+                  },
+                  "room": {
+                    "number": "414",
+                    "building": "1",
+                    "raw": "414УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 7,
+              "timeRaw": {
+                "start": "19:15",
+                "end": "20:40"
+              },
+              "time": {
+                "start": "19:15",
+                "end": "20:40",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Операционные системы и среды",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Вагин В.Д.",
+                    "raw": "преподаватель ВагинВ.Д."
+                  },
+                  "room": {
+                    "number": "дист. форм",
+                    "raw": "дист. форм",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "weekday": 5,
+          "name": "Пятница",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 6,
+              "timeRaw": {
+                "start": "17:40",
+                "end": "19:05"
+              },
+              "time": {
+                "start": "17:40",
+                "end": "19:05",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Операционные системы и среды",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Вагин В.Д.",
+                    "raw": "преподаватель ВагинВ.Д."
+                  },
+                  "room": {
+                    "number": "дист. форм",
+                    "raw": "дист. форм",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 7,
+              "timeRaw": {
+                "start": "19:15",
+                "end": "20:40"
+              },
+              "time": {
+                "start": "19:15",
+                "end": "20:40",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Операционные системы и среды",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Вагин В.Д.",
+                    "raw": "преподаватель ВагинВ.Д."
+                  },
+                  "room": {
+                    "number": "дист. форм",
+                    "raw": "дист. форм",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "weekday": 6,
+          "name": "Суббота",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Математический аппарат в отрасли информационных технологий",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Воробьева В.В.",
+                    "raw": "преподаватель ВоробьеваВ.В."
+                  },
+                  "room": {
+                    "number": "408",
+                    "building": "1",
+                    "raw": "408УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Математический аппарат в отрасли информационных технологий",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Воробьева В.В.",
+                    "raw": "преподаватель ВоробьеваВ.В."
+                  },
+                  "room": {
+                    "number": "408",
+                    "building": "1",
+                    "raw": "408УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-28",
+      "academicWeek": 13,
+      "parity": "odd",
+      "days": [
+        {
+          "date": "2026-11-23",
+          "weekday": 1,
+          "name": "Понедельник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Информационные технологии в профессиональной деятельности",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель АбрашовМ.А."
+                  },
+                  "room": {
+                    "number": "306",
+                    "building": "1",
+                    "raw": "306УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектирование и разработка информационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель Абрашов М.А."
+                  },
+                  "room": {
+                    "number": "306",
+                    "building": "1",
+                    "raw": "306УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Иностранный язык в профессиональной деятельности",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "1кат. Миннегалиева Т.В.",
+                    "raw": "преподаватель 1кат. МиннегалиеваТ.В."
+                  },
+                  "room": {
+                    "number": "212",
+                    "building": "1",
+                    "raw": "212УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 4,
+              "timeRaw": {
+                "start": "14:15",
+                "end": "15:45"
+              },
+              "time": {
+                "start": "14:15",
+                "end": "15:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Математический аппарат в отрасли информационных технологий",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Воробьева В.В.",
+                    "raw": "преподаватель ВоробьеваВ.В."
+                  },
+                  "room": {
+                    "number": "408",
+                    "building": "1",
+                    "raw": "408УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-24",
+          "weekday": 2,
+          "name": "Вторник",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 1,
+              "timeRaw": {
+                "start": "08:30",
+                "end": "10:00"
+              },
+              "time": {
+                "start": "08:30",
+                "end": "10:00",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектирование и разработка информационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель Абрашов М.А."
+                  },
+                  "room": {
+                    "number": "314",
+                    "building": "1",
+                    "raw": "314УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектирование и разработка информационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель Абрашов М.А."
+                  },
+                  "room": {
+                    "number": "314",
+                    "building": "1",
+                    "raw": "314УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 6,
+              "timeRaw": {
+                "start": "17:40",
+                "end": "19:05"
+              },
+              "time": {
+                "start": "17:40",
+                "end": "19:05",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Операционные системы и среды",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Вагин В.Д.",
+                    "raw": "преподаватель ВагинВ.Д."
+                  },
+                  "room": {
+                    "number": "дист. форм",
+                    "raw": "дист. форм",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "name": "Среда",
+          "kind": "empty",
+          "slots": []
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "name": "Четверг",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 6,
+              "timeRaw": {
+                "start": "17:40",
+                "end": "19:05"
+              },
+              "time": {
+                "start": "17:40",
+                "end": "19:05",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Операционные системы и среды",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Вагин В.Д.",
+                    "raw": "преподаватель ВагинВ.Д."
+                  },
+                  "room": {
+                    "number": "дист. форм",
+                    "raw": "дист. форм",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 7,
+              "timeRaw": {
+                "start": "19:15",
+                "end": "20:40"
+              },
+              "time": {
+                "start": "19:15",
+                "end": "20:40",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Операционные системы и среды",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Вагин В.Д.",
+                    "raw": "преподаватель ВагинВ.Д."
+                  },
+                  "room": {
+                    "number": "дист. форм",
+                    "raw": "дист. форм",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-27",
+          "weekday": 5,
+          "name": "Пятница",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы алгоритмизации и программирования",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Белкина А.В.",
+                    "raw": "преподаватель БелкинаА.В."
+                  },
+                  "room": {
+                    "number": "306",
+                    "building": "1",
+                    "raw": "306УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Проектирование и разработка информационных систем",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Абрашов М.А.",
+                    "raw": "преподаватель Абрашов М.А."
+                  },
+                  "room": {
+                    "number": "310",
+                    "building": "1",
+                    "raw": "310УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 6,
+              "timeRaw": {
+                "start": "17:40",
+                "end": "19:05"
+              },
+              "time": {
+                "start": "17:40",
+                "end": "19:05",
+                "mode": "regular",
+                "source": "file"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Основы финансовой грамотности",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика; преподаватель МитченкоТ.С.",
+                  "room": {
+                    "number": "дист. форм",
+                    "raw": "дист. форм",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-28",
+          "weekday": 6,
+          "name": "Суббота",
+          "kind": "classes",
+          "slots": [
+            {
+              "pair": 2,
+              "timeRaw": {
+                "start": "10:15",
+                "end": "11:45"
+              },
+              "time": {
+                "start": "10:15",
+                "end": "11:45",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Математический аппарат в отрасли информационных технологий",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Воробьева В.В.",
+                    "raw": "преподаватель ВоробьеваВ.В."
+                  },
+                  "room": {
+                    "number": "408",
+                    "building": "1",
+                    "raw": "408УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            },
+            {
+              "pair": 3,
+              "timeRaw": {
+                "start": "12:00",
+                "end": "13:30"
+              },
+              "time": {
+                "start": "12:00",
+                "end": "13:30",
+                "mode": "saturday",
+                "source": "preset"
+              },
+              "kind": "class",
+              "entries": [
+                {
+                  "discipline": "Математический аппарат в отрасли информационных технологий",
+                  "type": "practice",
+                  "typeLabel": "Практика",
+                  "rawType": "практика",
+                  "teacher": {
+                    "position": "преподаватель",
+                    "name": "Воробьева В.В.",
+                    "raw": "преподаватель ВоробьеваВ.В."
+                  },
+                  "room": {
+                    "number": "408",
+                    "building": "1",
+                    "raw": "408УК1",
+                    "kind": "room"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "Не указана аудитория: 2026-11-12, 4 пара."
+  ]
+}
